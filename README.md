@@ -1,0 +1,1 @@
+This is a program made by Steven Kolln which helps the user choose a snack when hungry. To run the file you can either use the ant command in home directory or compile and run the Driver.java file in the edu/tcnj/kollns1/ directory.
