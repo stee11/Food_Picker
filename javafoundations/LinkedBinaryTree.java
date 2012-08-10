@@ -1,6 +1,4 @@
 /**Steven Kolln and Wade Glenn
-Lab 09
-4/21/12
 LinkedBinaryTree*/
 
 package javafoundations;
